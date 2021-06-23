@@ -22223,7 +22223,7 @@ select.bs-select-hidden, select.selectpicker {
 }
 
 .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
-    /*max-width: 220px*/
+    max-width: 220px
 }
 
 .bootstrap-select .dropdown-toggle:focus {
