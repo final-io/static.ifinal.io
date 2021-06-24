@@ -11845,6 +11845,7 @@ footer .pull-center {
     font-size: 12px;
     text-transform: uppercase;
     border-radius: 3px;
+    margin: 0 15px;
     line-height: 20px
 }
 
