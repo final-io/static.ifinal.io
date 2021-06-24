@@ -11848,6 +11848,12 @@ footer .pull-center {
     line-height: 20px
 }
 
+.navbar .navbar-nav .nav-item .nav-link:focus,
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: inherit;
+    background-color: hsla(0, 0%, 100%, .1)
+}
+
 .navbar .navbar-nav .nav-item .nav-link:not(.btn-just-icon) .fa {
     position: relative;
     top: 2px;
