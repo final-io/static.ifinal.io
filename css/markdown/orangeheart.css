@@ -16,7 +16,7 @@
 .markdown > pre:before {
     content: '';
     display: block;
-    background: url(https://statis.ifinal.io/images/background/code-colse.svg);
+    background: url(https://static.ifinal.io/images/background/code-colse.svg);
     height: 30px;
     width: 100%;
     background-size: 40px;
