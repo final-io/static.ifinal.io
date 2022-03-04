@@ -236,6 +236,10 @@
     background-color: #f0f0f0;
 }
 
+.markdown table td img {
+    display: inline-block;
+}
+
 /* 行内代码 */
 .markdown span code, .markdown li code {
     color: rgb(239, 112, 96);
