@@ -409,3 +409,8 @@
 .cm-s-inner .CodeMirror-line > span > span::selection {
     background-color: rgba(167, 178, 189, 0.2);
 }
+
+code[class*=language-], pre[class*=language-]{
+    text-shadow: none;
+    color: #abb2bf;
+}
