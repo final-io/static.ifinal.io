@@ -10,7 +10,7 @@
     word-break: break-word;
     word-wrap: break-word;
     text-align: left;
-    font-family: Roboto, 'PingFang SC';
+    font-family: "Microsoft YaHei",Roboto, 'PingFang SC';
 }
 
 .markdown > pre:before {
