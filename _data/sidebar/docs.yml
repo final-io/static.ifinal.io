@@ -1,0 +1,27 @@
+﻿logo: /assets/img/logos/github.svg
+name: Final Projects
+menus:
+  - id: overview
+    icon: dashboard
+    name: '概览'
+  - id: second
+    group: App
+    icon: touch_app
+    name: '快速入门'
+    menus:
+      - id: test
+        name: '接口'
+      - id: orm
+        name: '对象缓存映射'
+      - id: cache
+        name: '缓存'
+        menus:
+          - id: item1
+            name: Item 1
+          - id: item2
+            name: Item 2
+            menus:
+              - id: item3
+                name: Item 3
+              - id: item4
+                name: Item 4
