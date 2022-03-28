@@ -87,6 +87,7 @@
     border-top-right-radius: 3px;
     border-top-left-radius: 3px;
     margin-right: 3px;
+    min-height: fit-content !important;
 }
 
 /*.markdown h2:after {*/
