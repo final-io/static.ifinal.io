@@ -10,7 +10,11 @@
     word-break: break-word;
     word-wrap: break-word;
     text-align: left;
-    font-family: Recursive,"华康少女文字W5","Microsoft YaHei",Roboto, 'PingFang SC' !important;
+    font-family: Recursive, "华康少女文字W5", "Microsoft YaHei", Roboto, 'PingFang SC', serif !important;
+}
+
+code[class*=language-], pre[class*=language-] {
+    font-family: Recursive, serif !important;
 }
 
 .markdown > pre:before {
